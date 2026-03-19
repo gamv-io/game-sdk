@@ -14,7 +14,7 @@
   <p>
     <a href="https://gamv.io/developers/docs">Documentation</a> &bull;
     <a href="https://gamv.io/developers">Developer Portal</a> &bull;
-    <a href="https://github.com/gamv-io/games">Example Games</a> &bull;
+    <a href="https://github.com/gamv-io/sample-arcade">Example Games</a> &bull;
     <a href="https://gamv.io">gamv.io</a>
   </p>
 </div>
@@ -730,7 +730,7 @@ interface GamvioGameProviderProps {
 | **Platform** | [gamv.io](https://gamv.io) |
 | **Developer Portal** | [gamv.io/developers](https://gamv.io/developers) |
 | **Documentation** | [gamv.io/developers/docs](https://gamv.io/developers/docs) |
-| **Example Games** | [github.com/gamv-io/games](https://github.com/gamv-io/games) |
+| **Example Games** | [github.com/gamv-io/games](https://github.com/gamv-io/sample-arcade) |
 | **Source** | [github.com/gamv-io/game-sdk](https://github.com/gamv-io/game-sdk) |
 | **Issues** | [github.com/gamv-io/game-sdk/issues](https://github.com/gamv-io/game-sdk/issues) |
 
